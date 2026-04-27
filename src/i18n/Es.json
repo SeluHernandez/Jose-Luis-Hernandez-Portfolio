@@ -30,7 +30,7 @@
       {
        "img": "/projects/project2.jpg",
         "title": "Gestor de tareas (En proceso)",
-        "description": "Una aplicación para gestionar tareas, con funciones como la creación de tareas, asignación y seguimiento del progreso.",
+        "description": "Gestor de tareas fullstack desarrollado con Laravel y React. Incluye una API REST con operaciones CRUD, integración con base de datos MySQL y una interfaz frontend responsive. Desarrollado como parte de mi formación para reforzar habilidades en desarrollo backend y fullstack.",
         "technologies": ["React", "Laravel", "MySQL"]
       }
     ]
