@@ -1,0 +1,44 @@
+{
+  "jose": {
+    "name": "Jose Luis Hernández",
+    "role": "Full Stack Developer",
+    "description": "Hi, I’m Jose, a Full-Stack Developer with a passion for building dynamic, user-friendly web applications. I specialize in both front-end and back-end development. I enjoy solving complex problems and delivering clean code."
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "year": "2024 - 3 months",
+        "role": "Junior Web Developer",
+        "company": "Vicomtech",
+        "description": "Developed and maintained web applications using JavaScript, React.js, and NestJS. Designed and implemented RESTful APIs for seamless data communication. Collaborated with cross-functional teams to deliver high-quality software on time.",
+        "technologies": ["Docker", "React.js", "Nest.js", "Jest", "MySQL"]
+      },
+      {
+        "year": "2025 - present",
+        "role": "IT Technician",
+        "company": "IRUNTEL.SL",
+        "description": "Provided technical support and maintenance for computer systems, including hardware diagnostics and software troubleshooting. Assisted customers with IT equipment selection and delivered remote support via phone and remote access tools. Ensured efficient problem resolution while maintaining high standards of customer service.",
+        "technologies": ["Anydesk", "Windows", "Jira"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "img": "/projects/project2.jpg",
+        "title": "Task Manager (IN PROCESS)",
+        "description": "Fullstack Task Manager built with Laravel and React. Features a REST API with CRUD operations, MySQL database integration, and a responsive frontend. Developed as part of my training to strengthen backend and fullstack development skills. ",
+        "technologies": ["React", "Laravel", "MySQL"]
+      }
+    
+    ]
+  },
+  "contact": {
+    "contactMe": "Contact me",
+    "address": "Irún",
+    "phoneNo": "+34 640822571",
+    "email": "Seluhernandez98@gmail.com"
+  }
+}

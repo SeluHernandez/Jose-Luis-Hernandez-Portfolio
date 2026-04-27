@@ -1,0 +1,44 @@
+{
+  "jose": {
+    "name": "Jose Luis Hernández",
+    "role": "Desarrollador Full Stack",
+    "description": "Hola, soy Jose, un Desarrollador Full-Stack con pasión por construir aplicaciones web dinámicas y fáciles de usar. Me especializo tanto en el desarrollo frontend como en el backend. Disfruto resolver problemas complejos y entregar código limpio."
+  },
+  "experience": {
+    "title": "Experiencia", 
+    "items": [
+      { 
+        "year": "2024 - 3 meses",
+        "role": "Desarrollador Web Junior",
+        "company": "Vicomtech",
+        "description": "Desarrollé y mantuve aplicaciones web utilizando JavaScript, React.js y NestJS. Diseñé e implementé APIs RESTful para una comunicación de datos fluida. Colaboré con equipos multifuncionales para entregar software de alta calidad a tiempo.",
+        "technologies": ["Docker", "React.js", "Nest.js", "Jest", "MySQL"]
+      },
+      {
+        "year": "2025 - Actual",
+        "role": "Técnico de IT",
+        "company": "IRUNTEL.SL",
+        "description": " Reparaciones y mantenimiento de equipos informáticos, soporte en remoto por teléfono y a través de Anydesk. Aseguré una resolución eficiente de problemas técnicos, brindando un servicio al cliente de alta calidad.",
+        "technologies": ["Anydesk", "Windows", "Jira"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos",
+    "items": [
+   
+      {
+       "img": "/projects/project2.jpg",
+        "title": "Gestor de tareas (En proceso)",
+        "description": "Una aplicación para gestionar tareas, con funciones como la creación de tareas, asignación y seguimiento del progreso.",
+        "technologies": ["React", "Laravel", "MySQL"]
+      }
+    ]
+  },
+  "contact": {
+    "contactMe": "Pongámonos en contacto",
+    "address": "Irún",
+    "phoneNo": "+34 640822571",
+    "email": "Seluhernandez98@gmail.com"
+  }
+}
