@@ -5,6 +5,7 @@ import { FaLaravel } from "react-icons/fa";
 import { GrMysql } from "react-icons/gr";
 import { FaDocker } from "react-icons/fa";
 import { motion } from "framer-motion";
+const { t } = useTranslation();
 
 const iconVariants = {
   animate: {
@@ -30,7 +31,9 @@ const iconVariants = {
 const Technologies = () => {
   return (
     <div className="border-b border-violet-950 pb-24">
-      <h2 className="my-20 text-center text-4xl font-semibold">Technologies</h2>
+ <h2 className="my-20 text-center text-4xl font-semibold">
+  {t("technologies.title")}
+</h2>
       <motion.div className="flex flex-wrap items-center justify-center gap-6">
         
         {/* React Icon */}

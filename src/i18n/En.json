@@ -4,6 +4,9 @@
     "role": "Full Stack Developer",
     "description": "Hi, I’m Jose, a Full-Stack Developer with a passion for building dynamic, user-friendly web applications. I specialize in both front-end and back-end development. I enjoy solving complex problems and delivering clean code."
   },
+  "technologies": {
+  "title": "Technologies"
+},
   "experience": {
     "title": "Experience",
     "items": [

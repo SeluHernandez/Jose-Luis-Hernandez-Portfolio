@@ -4,6 +4,9 @@
     "role": "Desarrollador Full Stack",
     "description": "Hola, soy Jose, un Desarrollador Full-Stack con pasión por construir aplicaciones web dinámicas y fáciles de usar. Me especializo tanto en el desarrollo frontend como en el backend. Disfruto resolver problemas complejos y entregar código limpio."
   },
+  "technologies": {
+  "title": "Tecnologías"
+},
   "experience": {
     "title": "Experiencia", 
     "items": [
